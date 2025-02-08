@@ -1,0 +1,366 @@
+date,old_testament,new_testament,psalm
+1/1/25,"Genesis 1, Genesis 2",Matthew 1,19
+1/2/25,"Genesis 3, Genesis 4",Matthew 2,
+1/3/25,"Genesis 5, Genesis 6",Matthew 3,104
+1/4/25,"Genesis 7, Genesis 8",Matthew 4,104
+1/5/25,"Genesis 9, Genesis 10",Matthew 5,
+1/6/25,"Genesis 11, Genesis 12",Matthew 6,
+1/7/25,"Genesis 13, Genesis 14",Matthew 7,148
+1/8/25,"Genesis 15, Genesis 16",Matthew 8,
+1/9/25,"Genesis 17, Genesis 18",Matthew 9,
+1/10/25,"Genesis 19, Genesis 20",Matthew 10,1
+1/11/25,"Genesis 21, Genesis 22",Matthew 11,107
+1/12/25,"Genesis 23, Genesis 24",Matthew 12,107
+1/13/25,"Genesis 25, Genesis 26",Matthew 13,4
+1/14/25,"Genesis 27, Genesis 28",Matthew 14,
+1/15/25,"Genesis 29, Genesis 30",Matthew 15,11
+1/16/25,"Genesis 31, Genesis 32",Matthew 16,11/145
+1/17/25,"Genesis 33, Genesis 34",Matthew 17,145
+1/18/25,"Genesis 35, Genesis 36",Matthew 18,12
+1/19/25,"Genesis 37, Genesis 38",Matthew 19,12
+1/20/25,"Genesis 39, Genesis 40",Matthew 20,
+1/21/25,"Genesis 41, Genesis 42",Matthew 21,
+1/22/25,"Genesis 43, Genesis 44",Matthew 22,24
+1/23/25,"Genesis 45, Genesis 46",Matthew 23,108
+1/24/25,"Genesis 47, Genesis 48",Matthew 24,25
+1/25/25,"Genesis 49, Genesis 50",Matthew 25,
+1/26/25,"Exodus 1, Exodus 2",Matthew 26,
+1/27/25,"Exodus 3, Exodus 4",Matthew 27,
+1/28/25,"Exodus 5, Exodus 6",Matthew 28,
+1/29/25,"Exodus 7, Exodus 8",Mark 1,105
+1/30/25,"Exodus 9, Exodus 10",Mark 2,105
+1/31/25,"Exodus 11, Exodus 12",Mark 3,
+2/1/25,"Exodus 13, Exodus 14",Mark 4,114
+2/2/25,"Exodus 15, Exodus 16",Mark 5,114
+2/3/25,"Exodus 17, Exodus 18",Mark 6,
+2/4/25,"Exodus 19, Exodus 20",Mark 7,33
+2/5/25,"Exodus 21, Exodus 22",Mark 8,33/109
+2/6/25,"Exodus 23, Exodus 24",Mark 9,109
+2/7/25,"Exodus 25, Exodus 26",Mark 10,90
+2/8/25,"Exodus 27, Exodus 28",Mark 11,90
+2/9/25,"Exodus 29, Exodus 30",Mark 12,
+2/10/25,"Exodus 31, Exodus 32",Mark 13,
+2/11/25,"Exodus 33, Exodus 34",Mark 14,
+2/12/25,"Exodus 35, Exodus 36",Mark 15,26
+2/13/25,"Exodus 37, Exodus 38",Mark 16,26
+2/14/25,"Exodus 39, Exodus 40",Luke 1,
+2/15/25,"Leviticus 1, Leviticus 2",Luke 2,27
+2/16/25,"Leviticus 3, Leviticus 4",Luke 3,27
+2/17/25,"Leviticus 5, Leviticus 6",Luke 4,
+2/18/25,"Leviticus 7, Leviticus 8",Luke 5,110
+2/19/25,"Leviticus 9, Leviticus 10",Luke 6,110
+2/20/25,"Leviticus 11, Leviticus 12",Luke 7,110/111
+2/21/25,"Leviticus 13, Leviticus 14",Luke 8,111
+2/22/25,"Leviticus 15, Leviticus 16",Luke 9,31
+2/23/25,"Leviticus 17, Leviticus 18",Luke 10,31
+2/24/25,"Leviticus 19, Leviticus 20",Luke 11,
+2/25/25,"Leviticus 21, Leviticus 22",Luke 12,
+2/26/25,"Leviticus 23, Leviticus 24",Luke 13,81
+2/27/25,"Leviticus 25, Leviticus 26",Luke 14,81/112
+2/28/25,"Leviticus 27, Numbers 1",Luke 15,112/64
+3/1/25,"Numbers 2, Numbers 3",Luke 16,64
+3/2/25,"Numbers 4, Numbers 5",Luke 17,
+3/3/25,"Numbers 6, Numbers 7",Luke 18,
+3/4/25,"Numbers 8, Numbers 9",Luke 19,
+3/5/25,"Numbers 10, Numbers 11",Luke 20,
+3/6/25,"Numbers 12, Numbers 13",Luke 21,28
+3/7/25,"Numbers 14, Numbers 15",Luke 22,28/113
+3/8/25,"Numbers 16, Numbers 17",Luke 23,113
+3/9/25,"Numbers 18, Numbers 19",Luke 24,113
+3/10/25,"Numbers 20, Numbers 21",John 1,
+3/11/25,"Numbers 22, Numbers 23",John 2,
+3/12/25,"Numbers 24, Numbers 25",John 3,
+3/13/25,"Numbers 26, Numbers 27",John 4,
+3/14/25,"Numbers 28, Numbers 29",John 5,
+3/15/25,"Numbers 30, Numbers 31",John 6,35
+3/16/25,"Numbers 32, Numbers 33",John 7,35
+3/17/25,"Numbers 34, Numbers 35",John 8,
+3/18/25,"Numbers 36, Deuteronomy 1",John 9,36
+3/19/25,"Deuteronomy 2, Deuteronomy 3",John 10,36
+3/20/25,"Deuteronomy 4, Deuteronomy 5",John 11,
+3/21/25,"Deuteronomy 6, Deuteronomy 7",John 12,
+3/22/25,"Deuteronomy 8, Deuteronomy 9",John 13,
+3/23/25,"Deuteronomy 10, Deuteronomy 11",John 14,5
+3/24/25,"Deuteronomy 12, Deuteronomy 13",John 15,5
+3/25/25,"Deuteronomy 14, Deuteronomy 15",John 16,115
+3/26/25,"Deuteronomy 16, Deuteronomy 17",John 17,115
+3/27/25,"Deuteronomy 18, Deuteronomy 19",John 18,115/6
+3/28/25,"Deuteronomy 20, Deuteronomy 21",John 19,6
+3/29/25,"Deuteronomy 22, Deuteronomy 23",John 20,6
+3/30/25,"Deuteronomy 24, Deuteronomy 25",John 21,
+3/31/25,"Deuteronomy 26, Deuteronomy 27",Acts 1,
+4/1/25,"Deuteronomy 28, Deuteronomy 29",Acts 2,
+4/2/25,"Deuteronomy 30, Deuteronomy 31",Acts 3,
+4/3/25,"Deuteronomy 32, Deuteronomy 33",Acts 4,13
+4/4/25,"Deuteronomy 34, Joshua 1",Acts 5,13/143
+4/5/25,"Joshua 2, Joshua 3",Acts 6,143
+4/6/25,"Joshua 4, Joshua 5",Acts 7,143/14
+4/7/25,"Joshua 6, Joshua 7",Acts 8,14
+4/8/25,"Joshua 8, Joshua 9",Acts 9,
+4/9/25,"Joshua 10, Joshua 11",Acts 10,
+4/10/25,"Joshua 12, Joshua 13",Acts 11,
+4/11/25,"Joshua 14, Joshua 15",Acts 12,
+4/12/25,"Joshua 16, Joshua 17",Acts 13,
+4/13/25,"Joshua 18, Joshua 19",Acts 14,15
+4/14/25,"Joshua 20, Joshua 21",Acts 15,15
+4/15/25,"Joshua 22, Joshua 23",Acts 16,116
+4/16/25,"Joshua 24, Judges 1",Acts 17,116/16
+4/17/25,"Judges 2, Judges 3",Acts 18,16
+4/18/25,"Judges 4, Judges 5",Acts 19,
+4/19/25,"Judges 6, Judges 7",Acts 20,
+4/20/25,"Judges 8, Judges 9",Acts 21,17
+4/21/25,"Judges 10, Judges 11",Acts 22,17
+4/22/25,"Judges 12, Judges 13",Acts 23,146
+4/23/25,"Judges 14, Judges 15",Acts 24,146
+4/24/25,"Judges 16, Judges 17",Acts 25,146/21
+4/25/25,"Judges 18, Judges 19",Acts 26,21
+4/26/25,"Judges 20, Judges 21",Acts 27,
+4/27/25,"Ruth 1, Ruth 2",Acts 28,
+4/28/25,"Ruth 3, Ruth 4",Romans 1,37
+4/29/25,"1 Samuel 1, 1 Samuel 2",Romans 2,120
+4/30/25,"1 Samuel 3, 1 Samuel 4",Romans 3,23
+5/1/25,"1 Samuel 5, 1 Samuel 6",Romans 4,23
+5/2/25,"1 Samuel 7, 1 Samuel 8",Romans 5,
+5/3/25,"1 Samuel 9, 1 Samuel 10",Romans 6,
+5/4/25,"1 Samuel 11, 1 Samuel 12",Romans 7,38
+5/5/25,"1 Samuel 13, 1 Samuel 14",Romans 8,38/124
+5/6/25,"1 Samuel 15, 1 Samuel 16",Romans 9,39
+5/7/25,"1 Samuel 17, 1 Samuel 18",Romans 10,59
+5/8/25,"1 Samuel 19, 1 Samuel 20",Romans 11,"59/56, 57, 142"
+5/9/25,"1 Samuel 21, 1 Samuel 22",Romans 12,52
+5/10/25,"1 Samuel 23, 1 Samuel 24",Romans 13,54
+5/11/25,"1 Samuel 25, 1 Samuel 26",Romans 14,
+5/12/25,"1 Samuel 27, 1 Samuel 28",Romans 15,
+5/13/25,"1 Samuel 29, 1 Samuel 30",Romans 16,
+5/14/25,"1 Samuel 31, 2 Samuel 1",1 Corinthians 1,96/106
+5/15/25,"2 Samuel 2, 2 Samuel 3",1 Corinthians 2,96/106
+5/16/25,"2 Samuel 4, 2 Samuel 5",1 Corinthians 3,122
+5/17/25,"2 Samuel 6, 2 Samuel 7",1 Corinthians 4,60/132
+5/18/25,"2 Samuel 8, 2 Samuel 9",1 Corinthians 5,132/89
+5/19/25,"2 Samuel 10, 2 Samuel 11",1 Corinthians 6,"89/51, 32"
+5/20/25,"2 Samuel 12, 2 Samuel 13",1 Corinthians 7,"51, 32"
+5/21/25,"2 Samuel 14, 2 Samuel 15",1 Corinthians 8,"3, 63"
+5/22/25,"2 Samuel 16, 2 Samuel 17",1 Corinthians 9,"3, 63"
+5/23/25,"2 Samuel 18, 2 Samuel 19",1 Corinthians 10,34
+5/24/25,"2 Samuel 20, 2 Samuel 21",1 Corinthians 11,34/18
+5/25/25,"2 Samuel 22, 2 Samuel 23",1 Corinthians 12,18
+5/26/25,"2 Samuel 24, 1 Kings 1",1 Corinthians 13,
+5/27/25,"1 Kings 2, 1 Kings 3",1 Corinthians 14,42
+5/28/25,"1 Kings 4, 1 Kings 5",1 Corinthians 15,43
+5/29/25,"1 Kings 6, 1 Kings 7",1 Corinthians 16,44
+5/30/25,"1 Kings 8, 1 Kings 9",2 Corinthians 1,30
+5/31/25,"1 Kings 10, 1 Kings 11",2 Corinthians 2,
+6/1/25,"1 Kings 12, 1 Kings 13",2 Corinthians 3,47
+6/2/25,"1 Kings 14, 1 Kings 15",2 Corinthians 4,47
+6/3/25,"1 Kings 16, 1 Kings 17",2 Corinthians 5,119
+6/4/25,"1 Kings 18, 1 Kings 19",2 Corinthians 6,119/129
+6/5/25,"1 Kings 20, 1 Kings 21",2 Corinthians 7,129
+6/6/25,"1 Kings 22, 2 Kings 1",2 Corinthians 8,20
+6/7/25,"2 Kings 2, 2 Kings 3",2 Corinthians 9,48
+6/8/25,"2 Kings 4, 2 Kings 5",2 Corinthians 10,
+6/9/25,"2 Kings 6, 2 Kings 7",2 Corinthians 11,
+6/10/25,"2 Kings 8, 2 Kings 9",2 Corinthians 12,49
+6/11/25,"2 Kings 10, 2 Kings 11",2 Corinthians 13,49/131
+6/12/25,"2 Kings 12, 2 Kings 13",Galatians 1,50/53
+6/13/25,"2 Kings 14, 2 Kings 15",Galatians 2,53
+6/14/25,"2 Kings 16, 2 Kings 17",Galatians 3,66
+6/15/25,"2 Kings 18, 2 Kings 19",Galatians 4,67
+6/16/25,"2 Kings 20, 2 Kings 21",Galatians 5,68/71
+6/17/25,"2 Kings 22, 2 Kings 23",Galatians 6,73
+6/18/25,"2 Kings 24, 2 Kings 25",Ephesians 1,126
+6/19/25,"1 Chronicles 1, 1 Chronicles 2",Ephesians 2,39
+6/20/25,"1 Chronicles 3, 1 Chronicles 4",Ephesians 3,"59/56, 57, 142"
+6/21/25,"1 Chronicles 5, 1 Chronicles 6",Ephesians 4,52/54
+6/22/25,"1 Chronicles 7, 1 Chronicles 8",Ephesians 5,
+6/23/25,"1 Chronicles 9, 1 Chronicles 10",Ephesians 6,
+6/24/25,"1 Chronicles 11, 1 Chronicles 12",Philippians 1,"96/106, 122"
+6/25/25,"1 Chronicles 13, 1 Chronicles 14",Philippians 2,60
+6/26/25,"1 Chronicles 15, 1 Chronicles 16",Philippians 3,
+6/27/25,"1 Chronicles 17, 1 Chronicles 18",Philippians 4,132/89
+6/28/25,"1 Chronicles 19, 1 Chronicles 20",Colossians 1,"51, 32"
+6/29/25,"1 Chronicles 21, 1 Chronicles 22",Colossians 2,78
+6/30/25,"1 Chronicles 23, 1 Chronicles 24",Colossians 3,78
+7/1/25,"1 Chronicles 25, 1 Chronicles 26",Colossians 4,78
+7/2/25,"1 Chronicles 27, 1 Chronicles 28",1 Thessalonians 1,
+7/3/25,"1 Chronicles 29, 2 Chronicles 1",1 Thessalonians 2,42
+7/4/25,"2 Chronicles 2, 2 Chronicles 3",1 Thessalonians 3,
+7/5/25,"2 Chronicles 4, 2 Chronicles 5",1 Thessalonians 4,44/121
+7/6/25,"2 Chronicles 6, 2 Chronicles 7",1 Thessalonians 5,121
+7/7/25,"2 Chronicles 8, 2 Chronicles 9",2 Thessalonians 1,
+7/8/25,"2 Chronicles 10, 2 Chronicles 11",2 Thessalonians 2,
+7/9/25,"2 Chronicles 12, 2 Chronicles 13",2 Thessalonians 3,47
+7/10/25,"2 Chronicles 14, 2 Chronicles 15",1 Timothy 1,
+7/11/25,"2 Chronicles 16, 2 Chronicles 17",1 Timothy 2,129
+7/12/25,"2 Chronicles 18, 2 Chronicles 19",1 Timothy 3,20
+7/13/25,"2 Chronicles 20, 2 Chronicles 21",1 Timothy 4,20
+7/14/25,"2 Chronicles 22, 2 Chronicles 23",1 Timothy 5,131
+7/15/25,"2 Chronicles 24, 2 Chronicles 25",1 Timothy 6,50/53
+7/16/25,"2 Chronicles 26, 2 Chronicles 27",2 Timothy 1,61
+7/17/25,"2 Chronicles 28, 2 Chronicles 29",2 Timothy 2,66
+7/18/25,"2 Chronicles 30, 2 Chronicles 31",2 Timothy 3,
+7/19/25,"2 Chronicles 32, 2 Chronicles 33",2 Timothy 4,67/71
+7/20/25,"2 Chronicles 34, 2 Chronicles 35",Titus 1,
+7/21/25,"2 Chronicles 36, Ezra 1",Titus 2,126
+7/22/25,"Ezra 2, Ezra 3",Titus 3,92
+7/23/25,"Ezra 4, Ezra 5",Philemon 1,92/95
+7/24/25,"Ezra 6, Ezra 7",Hebrews 1,95/97
+7/25/25,"Ezra 8, Ezra 9",Hebrews 2,97
+7/26/25,"Ezra 10, Nehemiah 1",Hebrews 3,97
+7/27/25,"Nehemiah 2, Nehemiah 3",Hebrews 4,
+7/28/25,"Nehemiah 4, Nehemiah 5",Hebrews 5,98
+7/29/25,"Nehemiah 6, Nehemiah 7",Hebrews 6,98/140
+7/30/25,"Nehemiah 8, Nehemiah 9",Hebrews 7,140
+7/31/25,"Nehemiah 10, Nehemiah 11",Hebrews 8,
+8/1/25,"Nehemiah 12, Nehemiah 13",Hebrews 9,
+8/2/25,"Esther 1, Esther 2",Hebrews 10,139
+8/3/25,"Esther 3, Esther 4",Hebrews 11,139
+8/4/25,"Esther 5, Esther 6",Hebrews 12,
+8/5/25,"Esther 7, Esther 8",Hebrews 13,
+8/6/25,"Esther 9, Esther 10",James 1,
+8/7/25,"Job 1, Job 2",James 2,29
+8/8/25,"Job 3, Job 4",James 3,29/99
+8/9/25,"Job 5, Job 6",James 4,99
+8/10/25,"Job 7, Job 8",James 5,
+8/11/25,"Job 9, Job 10",1 Peter 1,
+8/12/25,"Job 11, Job 12",1 Peter 2,100
+8/13/25,"Job 13, Job 14",1 Peter 3,100
+8/14/25,"Job 15, Job 16",1 Peter 4,
+8/15/25,"Job 17, Job 18",1 Peter 5,141
+8/16/25,"Job 19, Job 20",2 Peter 1,141
+8/17/25,"Job 21, Job 22",2 Peter 2,101
+8/18/25,"Job 23, Job 24",2 Peter 3,101
+8/19/25,"Job 25, Job 26",1 John 1,
+8/20/25,"Job 27, Job 28",1 John 2,
+8/21/25,"Job 29, Job 30",1 John 3,
+8/22/25,"Job 31, Job 32",1 John 4,102
+8/23/25,"Job 33, Job 34",1 John 5,102
+8/24/25,"Job 35, Job 36",2 John 1,
+8/25/25,"Job 37, Job 38",3 John 1,103
+8/26/25,"Job 39, Job 40",Jude 1,103/150
+8/27/25,"Job 41, Job 42",Revelation 1,150
+8/28/25,"Ecclesiastes 1, Ecclesiastes 2, Ecclesiastes 3",Revelation 2,45
+8/29/25,"Ecclesiastes 4, Ecclesiastes 5",Revelation 3,125
+8/30/25,"Ecclesiastes 6, Ecclesiastes 7",Revelation 4,125/46
+8/31/25,"Ecclesiastes 8, Ecclesiastes 9",Revelation 5,46
+9/1/25,"Ecclesiastes 10, Ecclesiastes 11",Revelation 6,
+9/2/25,"Ecclesiastes 12, Song of Solomon 1",Revelation 7,72
+9/3/25,"Song of Solomon 2, Song of Solomon 3",Revelation 8,72
+9/4/25,"Song of Solomon 4, Song of Solomon 5",Revelation 9,
+9/5/25,"Song of Solomon 6, Song of Solomon 7",Revelation 10,127
+9/6/25,"Song of Solomon 8, Isaiah 1",Revelation 11,127/9
+9/7/25,"Isaiah 2, Isaiah 3",Revelation 12,9
+9/8/25,"Isaiah 4, Isaiah 5",Revelation 13,
+9/9/25,"Isaiah 6, Isaiah 7",Revelation 14,22
+9/10/25,"Isaiah 8, Isaiah 9",Revelation 15,22
+9/11/25,"Isaiah 10, Isaiah 11",Revelation 16,118
+9/12/25,"Isaiah 12, Isaiah 13",Revelation 17,118
+9/13/25,"Isaiah 14, Isaiah 15",Revelation 18,
+9/14/25,"Isaiah 16, Isaiah 17",Revelation 19,62
+9/15/25,"Isaiah 18, Isaiah 19",Revelation 20,62
+9/16/25,"Isaiah 20, Isaiah 21",Revelation 21,
+9/17/25,"Isaiah 22, Isaiah 23",Revelation 22,
+9/18/25,"Isaiah 24, Isaiah 25",,
+9/19/25,"Isaiah 26, Isaiah 27",,65
+9/20/25,"Isaiah 28, Isaiah 29",,65
+9/21/25,"Isaiah 30, Isaiah 31",,
+9/22/25,"Isaiah 32, Isaiah 33",,
+9/23/25,"Isaiah 34, Isaiah 35",,
+9/24/25,"Isaiah 36, Isaiah 37",,123
+9/25/25,"Isaiah 38, Isaiah 39",,68
+9/26/25,"Isaiah 40, Isaiah 41",,68
+9/27/25,"Isaiah 42, Isaiah 43",,
+9/28/25,"Isaiah 44, Isaiah 45",,
+9/29/25,"Isaiah 46, Isaiah 47",,
+9/30/25,"Isaiah 48, Isaiah 49",,69
+10/1/25,"Isaiah 50, Isaiah 51",,69
+10/2/25,"Isaiah 52, Isaiah 53",,69/128
+10/3/25,"Isaiah 54, Isaiah 55",,128
+10/4/25,"Isaiah 56, Isaiah 57",,70
+10/5/25,"Isaiah 58, Isaiah 59",,70
+10/6/25,"Isaiah 60, Isaiah 61",,
+10/7/25,"Isaiah 62, Isaiah 63",,
+10/8/25,"Isaiah 64, Isaiah 65",,
+10/9/25,"Isaiah 66, Jeremiah 1",,130
+10/10/25,"Jeremiah 2, Jeremiah 3",,130
+10/11/25,"Jeremiah 4, Jeremiah 5",,130/75
+10/12/25,"Jeremiah 6, Jeremiah 7",,75
+10/13/25,"Jeremiah 8, Jeremiah 9",,
+10/14/25,"Jeremiah 10, Jeremiah 11",,
+10/15/25,"Jeremiah 12, Jeremiah 13",,
+10/16/25,"Jeremiah 14, Jeremiah 15",,76
+10/17/25,"Jeremiah 16, Jeremiah 17",,76
+10/18/25,"Jeremiah 18, Jeremiah 19",,
+10/19/25,"Jeremiah 20, Jeremiah 21",,79
+10/20/25,"Jeremiah 22, Jeremiah 23",,77
+10/21/25,"Jeremiah 24, Jeremiah 25",,133
+10/22/25,"Jeremiah 26, Jeremiah 27",,77
+10/23/25,"Jeremiah 28, Jeremiah 29",,
+10/24/25,"Jeremiah 30, Jeremiah 31",,
+10/25/25,"Jeremiah 32, Jeremiah 33",,
+10/26/25,"Jeremiah 34, Jeremiah 35",,79/133
+10/27/25,"Jeremiah 36, Jeremiah 37",,133/79
+10/28/25,"Jeremiah 38, Jeremiah 39",,
+10/29/25,"Jeremiah 40, Jeremiah 41",,147
+10/30/25,"Jeremiah 42, Jeremiah 43",,147
+10/31/25,"Jeremiah 44, Jeremiah 45",,133
+11/1/25,"Jeremiah 46, Jeremiah 47",,80
+11/2/25,"Jeremiah 48, Jeremiah 49",,80
+11/3/25,"Jeremiah 50, Jeremiah 51",,
+11/4/25,"Jeremiah 52, Lamentations 1",,
+11/5/25,"Lamentations 2, Lamentations 3",,137
+11/6/25,"Lamentations 4, Lamentations 5",,137
+11/7/25,"Ezekiel 1, Ezekiel 2",,
+11/8/25,"Ezekiel 3, Ezekiel 4",,82
+11/9/25,"Ezekiel 5, Ezekiel 6",,82
+11/10/25,"Ezekiel 7, Ezekiel 8",,
+11/11/25,"Ezekiel 9, Ezekiel 10",,83
+11/12/25,"Ezekiel 11, Ezekiel 12",,83
+11/13/25,"Ezekiel 13, Ezekiel 14",,136
+11/14/25,"Ezekiel 15, Ezekiel 16",,136
+11/15/25,"Ezekiel 17, Ezekiel 18",,
+11/16/25,"Ezekiel 19, Ezekiel 20",,84
+11/17/25,"Ezekiel 21, Ezekiel 22",,84/134
+11/18/25,"Ezekiel 23, Ezekiel 24",,134
+11/19/25,"Ezekiel 25, Ezekiel 26",,85
+11/20/25,"Ezekiel 27, Ezekiel 28",,85
+11/21/25,"Ezekiel 29, Ezekiel 30",,
+11/22/25,"Ezekiel 31, Ezekiel 32",,
+11/23/25,"Ezekiel 33, Ezekiel 34",,86
+11/24/25,"Ezekiel 35, Ezekiel 36",,86
+11/25/25,"Ezekiel 37, Ezekiel 38",,87
+11/26/25,"Ezekiel 39, Ezekiel 40",,87
+11/27/25,"Ezekiel 41, Ezekiel 42",,
+11/28/25,"Ezekiel 43, Ezekiel 44",,135
+11/29/25,"Ezekiel 45, Ezekiel 46",,135
+11/30/25,"Ezekiel 47, Ezekiel 48",,
+12/1/25,"Daniel 1, Daniel 2",,88
+12/2/25,"Daniel 3, Daniel 4",,88
+12/3/25,"Daniel 5, Daniel 6",,
+12/4/25,"Daniel 7, Daniel 8",,91
+12/5/25,"Daniel 9, Daniel 10",,91
+12/6/25,"Daniel 11, Daniel 12",,
+12/7/25,"Hosea 1, Hosea 2",,
+12/8/25,"Hosea 3, Hosea 4",,58
+12/9/25,"Hosea 5, Hosea 6",,58
+12/10/25,"Hosea 7, Hosea 8",,
+12/11/25,"Hosea 9, Hosea 10",,
+12/12/25,"Hosea 11, Hosea 12",,
+12/13/25,"Hosea 13, Hosea 14",,61
+12/14/25,"Joel 1, Joel 2",,
+12/15/25,"Joel 3, Amos 1",,
+12/16/25,"Amos 2, Amos 3",,
+12/17/25,"Amos 4, Amos 5, Amos 6, Amos 7",,55
+12/18/25,,,
+12/19/25,"Amos 8, Amos 9",,
+12/20/25,"Obadiah 1, Jonah 1",,147
+12/21/25,"Jonah 2, Jonah 3",,
+12/22/25,"Jonah 4, Micah 1",,
+12/23/25,"Micah 2, Micah 3",,
+12/24/25,"Micah 4, Micah 5",,
+12/25/25,"Micah 6, Micah 7",,
+12/26/25,"Nahum 1, Nahum 2",,149
+12/27/25,"Nahum 3, Habakkuk 1",,149
+12/28/25,"Habakkuk 2, Habakkuk 3",,
+12/29/25,"Zephaniah 1, Zephaniah 2, Zephaniah 3",,74
+12/30/25,"Haggai 1, Haggai 2",,138
+12/31/25,Zechariah1-14; Malachi 1-4,,2-Oct
