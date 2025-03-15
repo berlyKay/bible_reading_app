@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import ReadingPlan
+from .models import BibleReading
 
 # Register your models here.
-admin.site.register(ReadingPlan)
+admin.site.register(BibleReading)

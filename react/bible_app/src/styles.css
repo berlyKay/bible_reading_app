@@ -1,0 +1,138 @@
+body {
+    background: linear-gradient(to bottom, #69adf1, #b2ccef);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+.main-header {
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    width: fit-content;
+}
+
+.main-header h1 {
+    font-size: 2rem; 
+    margin-bottom: 0; 
+    color: #04417d; 
+}
+
+.main-header p {
+    font-size: 0.9rem; 
+    margin-top: 0; 
+    color: #555; 
+    line-height: 1.2;
+}
+
+.welcome-message {
+    background-color: #f0f8ff; 
+    text-align: center;
+    padding: 15px 20px; 
+    margin: 20px auto; 
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    width: fit-content;
+    font-size: 1rem; 
+    color: #333; 
+}
+
+nav {
+    position: static; 
+    background-color: #333;
+    color: white;
+    display: flex; 
+    justify-content: flex-end;
+    align-items: center; 
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    gap: 15px; 
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: white;
+    padding: 5px 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    margin-top: 20px;
+    color: #555;
+}
+
+.copyright-link {
+    color: #04417d; /* Matches your theme */
+    text-decoration: underline;
+}
+
+.copyright-link:hover {
+    color: #022d58; /* Slightly darker on hover */
+}
+
+.copyright-page {
+    background-color: #f0f8ff; 
+    text-align: center;
+    padding: 15px 20px; 
+    margin: 30px; 
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    width: fit-content;
+    font-size: 1rem; 
+    color: #333; 
+}
+
+.proverb_image {
+    width: 100%; 
+    max-width: 600px; 
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
+    display: block; 
+    margin: 20px auto; 
+  }
+.proverb_button {
+    width: 100%; 
+    max-width: 100px; 
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    display: block; 
+    margin: 20px auto; 
+  }
+
+@media (max-width: 768px) {
+    nav {
+        position: fixed; 
+        bottom: 0; 
+        left: 0;
+        right: 0;
+        flex-direction: column; 
+        align-items: center;
+        padding: 10px; 
+    }
+
+    nav ul {
+        flex-direction: row; 
+        justify-content: center; 
+        width: 100%;
+        gap: 15px;
+    }
+
+    nav ul li a {
+        display: inline-block;
+        width: auto; 
+        text-align: center;
+    }
+}

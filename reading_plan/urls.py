@@ -1,11 +1,12 @@
 from django.urls import path
-from .views import GetAudio, GetText, get_reading_by_date, get_daily_proverb
+from .views import GetAudio, get_readings_by_date, get_daily_proverb, get_chapter_reading, get_chapter
 
 
 urlpatterns = [
-    # path('api/random-proverb/', get_random_proverb, name="get_random_proverb"),
+    path('readings/<str:book>/<int:chapter>/', get_chapter_reading, name="get_chapter_reading"),
+    path('readings/<str:date>/', get_readings_by_date, name="get_reading_by_date"),
+    path('chapter/', get_chapter, name="get_chapter"),
+    path('audio/', GetAudio, name='get_audio'),
     path('proverb/', get_daily_proverb, name="get_daily_proverb"),
-    path('audio/', GetAudio, name='get_bible_chapter'),
-    path('text/', GetText, name='get_bible_chapter'),
-    path('reading/<str:date>/', get_reading_by_date, name="get_reading_by_date"),
+
 ]

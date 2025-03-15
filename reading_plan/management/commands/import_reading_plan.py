@@ -6,7 +6,7 @@ class Command(BaseCommand):
     help = "Import reading plan data from a CSV file"
 
     def handle(self, *args, **kwargs):
-        file_path = './reading_plan/data/Bible_Reading_Plan.csv'
+        file_path = './reading_plan/data/bible_reading_plan.csv'  # Ensure this is the correct file
 
         try:
             with open(file_path, 'r') as file:
@@ -14,13 +14,28 @@ class Command(BaseCommand):
                 next(csv_reader)  # Skip header row
 
                 for row in csv_reader:
-                    print(f"Inserting: {row}")  # Debugging output
-                    ReadingPlan.objects.create(
+                    # Debugging: Print each row before processing
+                    print(f"Row length: {len(row)} - Data: {row}")
+
+                    # Ensure the row has exactly 7 columns before inserting
+                    if len(row) < 7:
+                        print(f"Skipping malformed row: {row}")
+                        continue  # Skip this row
+
+                    # Create and save a ReadingPlan entry
+                    reading = ReadingPlan(
                         date=row[0],
-                        old_testament=row[1],
-                        new_testament=row[2],
-                        psalm=row[3]
+                        ot_book=row[1],
+                        ot_chapter=row[2],
+                        nt_book=row[3],
+                        nt_chapter=row[4],
+                        psalm_book=row[5],
+                        psalm_chapter=row[6]
                     )
+                    reading.save()  # Explicitly save to the database
+
+                    # Debugging: Confirm insertion
+                    print(f"✅ Inserted into DB: {reading}")
 
             self.stdout.write(self.style.SUCCESS("Successfully imported reading plan!"))
 
